@@ -1,9 +1,1 @@
-2026-11-16 12:38:02,302 WARNING The environment does not allow connecting to the splash screen. Did bootloader fail to initialize it?
-Traceback (most recent call last):
-  File "pyi_splash.py", line 108, in <module>
-  File "<frozen os>", line 714, in __getitem__
-KeyError: '_PYI_SPLASH_IPC'
-2026-11-16 12:38:08,334 INFO Opening camera 0 (asked), candidates=[0, 2, 3, 4, 5, 6, 7, 8, 9]
-2026-11-16 12:38:08,794 INFO Camera 0 opened with backend 1400
-2026-11-16 12:39:26,676 INFO YuNet face detector loaded
-2026-11-16 12:40:00,818 INFO generated new fontManager
+
